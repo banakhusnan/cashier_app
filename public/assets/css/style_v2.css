@@ -1,0 +1,21 @@
+html {
+    font-family: Figtree, ui-sans-serif, system-ui, sans-serif,
+        Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.card {
+    border-radius: 1rem !important;
+}
+
+.btn,
+.form-control {
+    border-radius: 0.5rem;
+}
+
+.container-scroller {
+    min-height: 100vh;
+}
+
+.btn:focus {
+    border: 0;
+}
